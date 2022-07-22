@@ -1,0 +1,19 @@
+,ampicillin,amoxicillin_clavulanic_acid,cefoxitin,ceftriaxone,chloramphenicol,ciprofloxacin,gentamicin,streptomycin,tetracycline,trimethoprim_sulphamethoxazole,meropenem
+Missing,826,641,2180,2287,2424,808,810,2545,2356,2373,1868
+Resistant,1395,700,199,247,121,635,335,130,267,242,44
+Susceptible,550,1378,363,239,225,1305,1583,86,146,151,857
+Intermediate,4,56,33,2,5,27,47,14,1,9,6
+Missing Ratio,29.77,23.10,78.56,82.41,87.35,29.12,29.19,91.71,85.05,85.51,67.32
+,cefepime,ceftazidime,piperacillin_tazobactam,amikacin,ampicillin_sulbactam,cefotaxime,cefalothin,ertapenem,imipenem,levofloxacin,nitrofurantoin
+Missing,1996,780,1290,2011,2623,1173,2160,2229,1651,2472,2457
+Resistant,111,489,123,15,66,480,258,46,31,217,30
+Susceptible,621,1443,1295,710,77,1114,240,493,1085,80,275
+Intermediate,35,63,67,39,9,8,117,7,8,6,13
+Missing Ratio,72.24,28.11,46.49,72.47,94.52,42.27,77.84,80.32,59.50,89.08,88.54
+,,,,,,,,,,,
+,tigecycline,cefazolin,aztreonam,cefuroxime,tobramycin,trimethoprim,amoxicillin,colistin,norfloxacin,sulfamethoxazole,
+Missing,1616,2499,2274,1371,1868,2013,1800,2561,2616,2616,
+Resistant,2,186,104,362,232,366,558,26,37,111,
+Susceptible,1138,69,383,1042,641,393,398,101,118,48,
+Intermediate,2,21,14,,34,3,19,12,4,,
+Missing Ratio,58.59,90.05,81.95,49.41,67.32,72.54,64.86,94.85,94.27,94.27,
